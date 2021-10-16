@@ -1,0 +1,22 @@
+.button-container {
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.button-container .nav-link {
+  padding: 0;
+  margin: 0;
+}
+.pagination {
+  display: flex;
+  padding-top: 1px;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #392613; */
+}
+.nav-link button,
+.col button,.button-container button {
+  background-color: #392613;
+  color: white;
+}
+ 

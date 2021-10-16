@@ -1,0 +1,41 @@
+.sidebar-nav .navbar {
+  width: 329px;
+  color: white;
+}
+.sidebar-nav .navbar-nav {
+  height: 910px;
+  width: 330px;
+}
+.sidebar-nav .nav-item,
+.sidebar-nav .user-area {
+  padding-left: 20px;
+}
+
+.sidebar-nav .user-area > img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: transparent;
+}
+
+.sidebar-nav .heading {
+  font-size: 24px;
+  font-weight: 400;
+  padding-left: 20px;
+}
+.icon-container {
+  display: flex;
+  align-items: center;
+}
+.nav-link {
+  color: white;
+}
+.icon {
+  padding-right: 20px;
+}
+.cart-item-container {
+  width: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

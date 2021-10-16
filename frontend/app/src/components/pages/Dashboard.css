@@ -1,0 +1,36 @@
+.category {
+  height: 100px;
+  background-color: lightsalmon;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+  font-weight: 500;
+}
+.product {
+  height: 100px;
+  background-color: lightgreen;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+  font-weight: 500;
+}
+
+.order {
+  height: 100px;
+  background-color: lightblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+  font-weight: 500;
+}
+
+.order-data .heading {
+  font-size: larger;
+  font-weight: bold;
+}
